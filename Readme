@@ -1,7 +1,5 @@
 # Python-login-program-with-3-attempts-
 This is a simple python login program. It takes username and password from the user and checks with the system username and password. Once the username and password are matched access granted massage will pop up otherwise I gonna ask whether they would like to try again or not ?, If they press "Y" or "y" they will get second attempt to enter username and password and there will be 3 attempt. If they press "N" or "n" program will terminate.
 
-# This is edited part 1
-# Some text here
-# Additional test here
+# Building 101
 
