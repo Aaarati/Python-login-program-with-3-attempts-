@@ -31,7 +31,7 @@
         # else:
           #   print("Please enter valid input!")
 
-print("This is Python Build")
+priadaant("This is Python Build")
 
     
     
