@@ -4,13 +4,13 @@ pipeline {
     stages {
         stage('version') {
             steps {
-               python3 'python --version'
+              sh 'python --version'
             }
         }
         
         stage('build') {
             steps {
-               python3 'python login.py'
+               sh 'python login.py'
             }
         }
     }
